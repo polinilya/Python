@@ -37,5 +37,3 @@ Space Invaders - это классическая аркадная игра, вы
 ![главное меню](screenshot/menu.jpg)
 #### Игра
 ![игра](screenshot/game.jpg)
-#### Финальное окно
-![проигрыш](screenshot/game over.jpg)
